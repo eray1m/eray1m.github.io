@@ -5,6 +5,13 @@
     font-family: "Aquires";
     src: url(assets/AquireBold.otf) format("opentype");
 }
+@font-face {
+    font-family: "AquiresMD";
+    src: url(assets/Aquire-BW.otf) format("opentype");
+}
+.aquiresmd {
+    font-family: "AquiresMD"
+}
 .aquiresbold {
     font-family: "Aquires";
 }
